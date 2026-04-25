@@ -30,4 +30,4 @@ This project contains a set of SQL queries designed to solve real-world business
 To practice SQL queries and gain insights from structured data.
 
 ## 👩‍💻 Author
-Your Name
+Shruti Goyal
